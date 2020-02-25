@@ -1,6 +1,6 @@
 # Die Quantified Self Bewegung und unsere Gesellschaft 
 
-## Eine App für Benjamin Franklin
+### Eine App für Benjamin Franklin
 
 Benjamin Franklin war ein außergewöhnlicher Mensch. 
 Er war seiner Zeit in vielerlei Hinsichten voraus. 
@@ -14,7 +14,7 @@ Franklin verwendeten also bereits im 18. Jahrhundert, was heute viele auf ihrem 
 Einen sog. Habit-Tracker, also einen "Gewohnheiten-Verfolger", eine Applikation, mit deren Hilfe sich Angewohnheiten überwachen lassen und von der Benjamin Franklin heute ziemlich wahrscheinlich profitieren würde.
 
 
-## Was ist Quantified Self ?
+### Was ist Quantified Self ?
 
 Habit-Tracker sind aber nur eine Instanz eines heute weit verbreiteten Phänomens: __Quantified Self__.
 Quantified Self ist gleichzeitig eine kulturelle Bewegung sowie eine Gemeinschaft von Praktizierenden und Entwicklern in Zusammenarbeit. 
@@ -33,7 +33,7 @@ Erst durch die Komprimierung der Geräte auf ein tragbares und modisches Format 
 Das wird auch die junge Geschichte der modernen Praktik erklären.
 
 
-## Geschichte von Quantified Self 
+### Geschichte von Quantified Self 
 
 Der Begriff selbst wurde 2007 von Gary Wolf und Kevin Kelly geprägt, wichtigen Journalisten bzw. Executive Editors der Zeitschrift "Wired" [3]. 
 Sie sind auch die Gründer der "Quantified Self"-Bewegung und die Organisatoren der Quantified Self Konferenzen. 
@@ -45,7 +45,7 @@ Heute nehmen knappe 100.000 Mitglieder [5] an regulären Veranstaltungen teil.
 ![Alt-Text][Bild 1]
 <br /> [6] Abb. 1: QS Conference 2015 Fort Mason (Image: Damien Catani)
 
-## Die Funktionsweise von Selbst-Trackern
+### Die Funktionsweise von Selbst-Trackern
 
 "_Almost everything we do generates data._", sagt Gary Wolf, aber von Nichts kommt Nichts. 
 Wie entstehen unsere Daten? 
@@ -64,7 +64,7 @@ Früher mussten Menschen von Experten aufwendig verkabelt werden um physiologisc
 ![Alt-Text][Bild 2]
 <br />[10] Abb. 2: Inhalt einer Fitbit Flex (Bild: iFixit)
 
-## Ein rasant wachsendes Phänomen
+### Ein rasant wachsendes Phänomen
 
 Selbst-Tracking gewinnt stetig an Popularität. 
 
@@ -78,7 +78,7 @@ Weitere 18 % gaben an, ein solche Technologie schon mal verwendet zu haben [12].
 In Kanada nutzten in einer repräsentativen Studie von 2018 66 % der Befragten regelmäßig eine Tracking-App um ihre Gesundheit zu überwachen.  
 
 
-## Große Risiken 
+### Große Risiken 
 
 Die Zahl der Selbsttracker und der Trackenden wächst. 
 Das bleibt, wie alles andere auch, nicht ohne potenzielle Gefahren. 
